@@ -450,7 +450,7 @@ exports.commandCount = function(){
 }
 if(AuthDetails.bot_token){
 	console.log("logging in with token");
-	bot.login(AuthDetails.bot_token);
+	bot.login(Nzg5MDQzNTUyNDM1ODMwODI1.X9sUEg.vPmev0VsZBB_Sxq4xDu8IGEp1Qo);
 } else {
 	console.log("Logging in with user credentials is no longer supported!\nYou can use token based log in with a user account; see\nhttps://discord.js.org/#/docs/main/master/general/updating.");
 }
